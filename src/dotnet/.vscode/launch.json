@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug GetFoundryUsage",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "C:\\Repo\\Session\\GetFoundryModelUsage\\bin\\Debug\\net10.0\\GetFoundryUsage.dll",
+      "cwd": "C:\\Repo\\Session\\GetFoundryModelUsage",
+      "preLaunchTask": "build GetFoundryUsage",
+      "console": "integratedTerminal"
+    }
+  ]
+}
