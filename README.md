@@ -14,15 +14,7 @@ This project shows how to retrieve and calculate Microsoft Foundry model deploym
 
 ### 🚀 Getting started
 
-#### In a guided session
-
-1. Open the deck in [`presentation/THR979-Follow the Tokens.pdf`](presentation/THR979-Follow%20the%20Tokens.pdf).
-2. Choose your implementation path:
-   - .NET cost reporting app in [`src/dotnet`](src/dotnet/README.md)
-   - PowerShell scripts in [`src/powershell`](src/powershell/ReadMe.md)
-3. Use the setup instructions for your chosen path, then run the sample.
-
-#### On your own
+This theater session is self-paced for attendees. Use the steps below to run the content on your own.
 
 1. Clone this repository.
 2. Install prerequisites:
